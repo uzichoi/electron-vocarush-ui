@@ -6,7 +6,7 @@
 
 ---
 
-## 🚩 핵심 특징
+## 핵심 특징
 
 - **화면 흐름**: Start → Manual → Game → Result → Ranking → End (Hash Router 기반)  
 - **게임 UI**: 플레이어 카드(점수/콤보/HP), 중앙 10×10 보드, 실시간 타이머  
@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠 기술 스택
+## 기술 스택
 
 - **Runtime**: Electron ^37  
 - **UI**: React 18, React DOM 18, React Router v6  
@@ -23,7 +23,7 @@
 
 ---
 
-## 📂 디렉터리 구조 (권장)
+## 디렉터리 구조 (권장)
 
 ```bash
 src/
@@ -66,7 +66,7 @@ npm start: npm run build 후 electron .
 
 ---
 
-## 🚀 실행 화면
+## 실행 화면
 | 화면 | 이미지 |
  |:---:|:---:|
  | **시작 화면** | <img src="./images/StartView.png" width="450px" /> | 
@@ -79,5 +79,5 @@ npm start: npm run build 후 electron .
 
  ---
 
-## ✨ 한 줄 소개
+## 한 줄 소개
 2인 단어 배틀 게임 — 제한 시간 안에 단어를 찾아내고, 콤보와 정확도로 승부를 가르는 실시간 대전 UI.
